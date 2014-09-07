@@ -163,7 +163,7 @@ blockquote p {
 .bl-main > section:first-child {
 	top: 0;
 	left: 0;
-    background: #ff99cc;
+    background: #46b6cc;
     width: 50%;
 	height: 20%;
 }
@@ -172,7 +172,7 @@ blockquote p {
 .bl-main > section:nth-child(2) {
 	top: 0;
 	left: 50%;
-    background: #35cddd;
+    background: #d2d1df;
     width: 50%;
 	height: 20%;
 }
@@ -181,7 +181,7 @@ blockquote p {
 .bl-main > section:nth-child(3) {
 	top: 20%;
 	left: 0;
-    background: #35cddd;
+    background: #d2d1df;
     width: 20%;
 	height: 60%;
 }
@@ -190,7 +190,7 @@ blockquote p {
 .bl-main > section:nth-child(4) {
 	top: 20%;
 	left: 20%;
-    background: #d8d8d8;
+    background: #d3f7fb;
     width: 60%;
 	height: 60%;
 }
@@ -199,7 +199,7 @@ blockquote p {
 .bl-main > section:nth-child(5) {
     top: 20%;
     left: 80%;
-    background: #ff99cc;
+    background: #46b6cc;
     width: 20%;
 	height: 60%;
 }
@@ -208,7 +208,7 @@ blockquote p {
 .bl-main > section:nth-child(6) {
     top: 80%;
 	left: 0;
-    background: #ff99cc;
+    background: #46b6cc;
     width: 50%;
 	height: 20%;
 }
@@ -217,7 +217,7 @@ blockquote p {
 .bl-main > section:nth-child(7) {
     top: 80%;
 	left: 50%;
-    background: #35cddd;
+    background: #d2d1df;
     width: 50%;
 	height: 20%;
 }
