@@ -43,6 +43,55 @@
 	font-style: normal;
 }
 
+@font-face {
+    font-family: 'Source Code Pro Black';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Source Code Pro Black'), url('../fonts/sourcecodepro-black.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Source Code Pro ExtraLight';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Source Code Pro ExtraLight'), url('../fonts/sourcecodepro-extralight.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Source Code Pro Light';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Source Code Pro Light'), url('../fonts/sourcecodepro-light.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Source Code Pro';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Source Code Pro'), url('../fonts/sourcecodepro-medium.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Source Code Pro';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Source Code Pro'), url('../fonts/sourcecodepro-regular.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Source Code Pro Bold';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Source Code Pro Bold'), url('../fonts/sourcecodepro-bold.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Source Code Pro Semibold';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Source Code Pro Semibold'), url('../fonts/sourcecodepro-semibold.woff') format('woff');
+}
+
 /*
 Icon Font: undangan
 Thank you for using The Noun Project. This icon is licensed under Creative
@@ -369,7 +418,7 @@ blockquote p {
 
 .bl-box h2 {
     color: #555;
-    font-family: 'britannic';
+    font-family: 'Source Code Pro Light';
 	text-align: center;
 	margin: 0;
 	padding: 20px;
