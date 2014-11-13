@@ -342,7 +342,7 @@ blockquote p {
 }
 
 .bl-content.layer-tentang-nikah p {
-    font-size: 1.2em;
+    font-size: 1.0em;
     padding-bottom: 3%;
 }
 
@@ -729,7 +729,6 @@ section.bl-expand .bl-icon-close {
 .quotation {
     font-family: 'fira-sans';
     text-align:center;
-    font-size: 1.2em;
     font-style:italic;
 }
 
