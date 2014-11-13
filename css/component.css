@@ -746,13 +746,13 @@ figure.effect-sadie p {
     padding: 2em;
     width: 50%;
     opacity: 0;
-    transform: translate3d(0,30px,0);
+    transform: translate3d(0,50px,0);
 }
  
 figure.effect-sadie:hover figcaption::before ,
 figure.effect-sadie:hover p {
     opacity: 1;
-    transform: translate3d(0,20px,0);
+    transform: translate3d(0,30px,0);
 }
 
 @media screen and (max-width: 46.5em) {
