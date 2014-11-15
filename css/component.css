@@ -181,7 +181,7 @@ body {
 }
 
 a {
-	color: #f0f0f0;
+	color: DodgerBlue;
 	text-decoration: none;
 	font-weight: 700;
 	letter-spacing: 2px;
@@ -191,7 +191,7 @@ a {
 }
 
 a:hover {
-	color: #fff;
+	color: DeepSkyBlue;
 }
 
 blockquote {
@@ -539,7 +539,6 @@ blockquote p {
 	font-size: 1.8em;
 	font-weight: 300;
 	margin: 0 0 20px 0;
-    text-align: left;
 }
 
 .bl-content h1 {
@@ -547,14 +546,12 @@ blockquote p {
 	font-size: 1.8em;
 	font-weight: 300;
 	margin: 0 0 20px 0;
-    text-align: left;
 }
 
 .bl-content h4 {
 	font-size: 1.2em;
 	font-weight: 300;
 	margin: 0 0 20px 0;
-    text-align: left;
 }
 
 .bl-content.layer-lokasi .info-content {
