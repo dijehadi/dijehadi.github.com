@@ -764,3 +764,13 @@ figure.effect-sadie:hover p {
 		width: 40%;
 	}
 }
+
+a.denah-link {
+    color: Red;
+    font-size: 1.3em;
+}
+
+a:hover.denah-link {
+    color: DarkRed;
+    font-size: 1.3em;
+}
